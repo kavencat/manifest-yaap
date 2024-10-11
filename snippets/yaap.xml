@@ -40,6 +40,7 @@
 
   <!-- Device -->
   <project path="device/lineage/sepolicy" name="device_lineage_sepolicy" remote="yaap" />
+  <project path="device/mediatek/sepolicy_vndr" name="device_mediatek_sepolicy_vndr" remote="yaap" />
   <project path="device/qcom/common" name="device_qcom_common" remote="yaap" />
   <project path="device/qcom/sepolicy_vndr/sm8650" name="device_qcom_sepolicy_vndr_sm8650" remote="yaap" />
 
@@ -138,6 +139,7 @@
   <project path="packages/apps/Dialer" name="packages_apps_Dialer" remote="yaap" />
   <project path="packages/apps/DeskClock" name="packages_apps_DeskClock" remote="yaap" />
   <project path="packages/apps/DocumentsUI" name="packages_apps_DocumentsUI" remote="yaap" />
+  <project path="packages/apps/EmergencyInfo" name="packages_apps_EmergencyInfo" remote="yaap" />
   <project path="packages/apps/Etar" name="packages_apps_Etar" remote="yaap" />
   <project path="packages/apps/ExactCalculator" name="packages_apps_ExactCalculator" remote="yaap" />
   <project path="packages/apps/Gallery2" name="packages_apps_Gallery2" remote="yaap" />
