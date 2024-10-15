@@ -15,5 +15,8 @@
 
   <!-- hardware/xiaomi -->
   <project path="hardware/xiaomi" name="hardware_xiaomi" remote="yaap" />
+  
+  <project path="external/libevdev" name="Miku-UI/platform_external_libevdev" remote="github" revision="snowland" />
+  <project path="external/tinyxml" name="Miku-UI/platform_external_tinyxml" remote="github" revision="snowland" />
 
 </manifest>
