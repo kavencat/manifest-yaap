@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- wayne device -->
+  <project path="device/xiaomi/wayne" name="kavencat/android_device_xiaomi_wayne" remote="github" revision="yaap" />
+  <project path="kernel/xiaomi/wayne" name="kavencat/android_kernel_xiaomi_wayne-4.19" remote="github" revision="tequila" clone-depth="1" />
+  <project path="vendor/xiaomi/wayne" name="kavencat/android_vendor_xiaomi_wayne-4.19" remote="github" revision="fifteen" />
+  
+  <!-- hardware/xiaomi -->
+  <project path="hardware/xiaomi" name="hardware_xiaomi" remote="yaap" />
+
+</manifest>
