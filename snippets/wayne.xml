@@ -2,9 +2,9 @@
 <manifest>
 
   <!-- wayne device -->
-  <project path="device/xiaomi/wayne" name="kavencat/android_device_xiaomi_wayne" remote="github" revision="yaap" />
-  <project path="kernel/xiaomi/wayne" name="kavencat/android_kernel_xiaomi_wayne-4.19" remote="github" revision="tequila" clone-depth="1" />
-  <project path="vendor/xiaomi/wayne" name="kavencat/android_vendor_xiaomi_wayne-4.19" remote="github" revision="fifteen" />
+  <project path="device/xiaomi/wayne" name="kavencat/Miku_device_xiaomi_wayne" remote="github" revision="Blooming" />
+  <project path="kernel/xiaomi/wayne" name="Diva-Room/Miku_kernel_xiaomi_wayne" remote="github" revision="Blooming" clone-depth="1" />
+  <project path="vendor/xiaomi/wayne" name="kavencat/Miku_vendor_xiaomi_wayne" remote="github" revision="Blooming" />
   
   <!-- hardware/xiaomi -->
   <project path="hardware/xiaomi" name="hardware_xiaomi" remote="yaap" />
